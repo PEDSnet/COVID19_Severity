@@ -50,7 +50,7 @@ This Flag is positive if there is a diagnosis code for any of the following cond
 - Noninvasive mechanical ventilation
 - Received pressor support
 - Death
-- During the hospitalization
+  - During the hospitalization
 
 ## Evaluation
 
@@ -60,7 +60,7 @@ This Flag is positive if there is a diagnosis code for any of the following cond
 - COVID 19 Diagnosis
 - Hospitalizations
 - Outpatient Visits (Follow-up)
-- 
+
 #### Logistic Regression
   - Health Condtions
     - Obesity 
