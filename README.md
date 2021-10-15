@@ -7,7 +7,7 @@ We have developed a four-level classification typology to categorize COVID-19 se
 
 ### Flag 1: Symptoms
 
-This flag includes 13 symptom types. If any code in these symptom types is present, the flag is positive. The following symptoms for which codesets have been created:
+This flag includes 13 symptom types. If any code in these symptom types is present, the flag is positive. The symptoms as as follows:
 - fever/chills
 - anorexia/inability to eat
 - nausea/vomiting/diarrhea
